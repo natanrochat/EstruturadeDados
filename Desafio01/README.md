@@ -7,7 +7,7 @@ Essa aplicação Web tem como função gerenciar tarefas: podendo criar, excluir
 
 # Para utilizar esta aplicação
 
-Basta colocar os três arquivos: index.html, estilo.css e desafio01.js em uma mesma pasta e executar o arquivo index.html.
+Basta colocar os três arquivos: index.html, estilo.css e desafio01.js em uma mesma pasta e executar o arquivo index.html com o navegador.
 
 # Desenvolvimento
 Usou-se o HTML para fazer a base do que seria a aplicação, um "título", uma caixa para a escrita e um botão
