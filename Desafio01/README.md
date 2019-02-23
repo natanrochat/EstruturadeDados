@@ -5,6 +5,10 @@
 # Breve Resumo
 Essa aplicação Web tem como função gerenciar tarefas: podendo criar, excluir, riscar e editar cada elemento.
 
+# Para utilizar esta aplicação
+
+Basta colocar os três arquivos: index.html, estilo.css e desafio01.js em uma mesma pasta e executar o arquivo index.html.
+
 # Desenvolvimento
 Usou-se o HTML para fazer a base do que seria a aplicação, um "título", uma caixa para a escrita e um botão
 que irá fazer toda a parte lógica da página. O JavaScript é praticamente 90% de toda a aplicação, possui apenas uma
