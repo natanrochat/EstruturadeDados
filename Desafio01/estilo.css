@@ -1,7 +1,11 @@
+/* Estilo do título */
+
 h1{
     text-decoration: underline;
     font-family: Arial;
 }
+
+/* Estilo da lista toda */
 
 ol{
     font-family: Arial;
@@ -11,12 +15,16 @@ ol{
     width: 500px;
 }
 
+/* Estilo da li pros elementos */
+
 li{
     border: 1px solid #ccc;
     background: #eee;
     padding: 5px 10px;
     color: #000;
 }
+
+/* Estilo do título */
 
 #listaToda{
     padding-bottom: 25px;
