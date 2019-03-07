@@ -9,7 +9,7 @@ Essa aplicação foi testada nas versões **3.6.7** e **3.7.2**
 Esse programa tem como função armazenar, excluir, buscar e vizualizar telefones inseridos pelo usuário.
 
 # Para utilizar esta aplicação
-Primeiro baixe o Python clicando [Aqui](https://www.python.org/downloads/), depois execute o arquivo [Lista Telefônica](https://github.com/natanrochat/EstruturadeDados/blob/master/Desafio%2002%20(Lista%20telef%C3%B4nica)/listaTelefonica.py).
+Primeiro, baixe o Python clicando [Aqui](https://www.python.org/downloads/), depois execute o arquivo [Lista Telefônica](https://github.com/natanrochat/EstruturadeDados/blob/master/Desafio%2002%20(Lista%20telef%C3%B4nica)/listaTelefonica.py).
 
 # Desenvolvimento
 Através da linguagem Python, desenvolveu-se toda a aplicação. Em apenas um arquivo, foram feitas todas as funções que dão a aplicabilidade: Adicionar, Buscar, Excluir e Vizualizar. O programa mostra um "menu" que através do número digitado executa uma função diferente.
