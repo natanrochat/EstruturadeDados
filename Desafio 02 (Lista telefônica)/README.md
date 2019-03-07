@@ -2,6 +2,9 @@
 
 # Tecnologia Usada: Python
 
+# Versão do Python
+Essa aplicação foi testada nas versões **3.6.7** e **3.7.2**
+
 # Breve Resumo
 Esse programa tem como função armazenar, excluir, buscar e vizualizar telefones.
 
