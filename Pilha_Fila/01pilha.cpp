@@ -81,21 +81,6 @@ void transfere(Pilha &a1, Pilha &a2, Pilha &a3){
 	}
 }
 
-void transfereSimples(Pilha &a1, Pilha &a2, int valMax){ /// tirar
-
-	int dado;
-
-	for(int s=0; s < valMax; s++){
-		dado = pilhaPop(a1);
-		if( (dado%2) == 0 ){
-			pilhaPush(a2, dado);
-		}
-		else{
-			pilhaPush(a1, dado);
-		}
-	}
-}
-
 int main(){
 
 	// Declaração das Variáveis
